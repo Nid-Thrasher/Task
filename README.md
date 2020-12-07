@@ -1,7 +1,9 @@
 <!-- Blockquote -->
 ***Block Quotes***
 >***This is Blockquote on Hacking.***
+>
 >**"*A security hacker is someone who explores methods for breaching defenses and exploiting weaknesses in a computer system or network.*"** 
+
 >Hackers may be motivated by a multitude of reasons, such as profit, protest, information gathering etc...
 
 <!-- Horizontal Rule -->
